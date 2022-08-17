@@ -39,7 +39,7 @@ Vascular lesion
  Learning Session
 
 ## Contact
-Created by [@vaishaliBhilawe] - feel free to contact me!
+Created by [@vaishaliBhilave] - feel free to contact me!
 
 
 <!-- Optional -->
